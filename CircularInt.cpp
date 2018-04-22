@@ -1,5 +1,5 @@
 
-#include "CircularInt.h"
+#include "CircularInt.hpp"
 using namespace std;
 
 //cunstructor with 3 numbers - range and current
